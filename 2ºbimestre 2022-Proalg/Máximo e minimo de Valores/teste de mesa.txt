@@ -1,0 +1,3 @@
+Mínimo              Máximo            Média
+10                    30                20
+30                    70                50

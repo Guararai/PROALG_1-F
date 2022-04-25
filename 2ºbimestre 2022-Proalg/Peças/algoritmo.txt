@@ -1,0 +1,5 @@
+ Digite o valor da peça e armazene em Valor
+ Digite a qtde de peças e armazene em Qtde
+ Faça VT=Qtde*Valor
+ Mostre VT
+Fim Algoritmo

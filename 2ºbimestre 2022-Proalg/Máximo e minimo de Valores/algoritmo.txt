@@ -1,0 +1,7 @@
+ Digite o valor mínimo de peças e armazene em minimo
+ Digite o valor máximo de peças e armazene em maximo
+ *se o valor minimo for maior que o valor máximo será mostrado um aviso na tela
+ Faça media=minimo+maximo/2
+ Mostre media
+
+Fim Algoritmo
