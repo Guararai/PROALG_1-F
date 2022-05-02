@@ -1,0 +1,4 @@
+Valor_reais              Cotacao            Valor_em_dolar
+
+100                         5                      20
+50                          5                      10
