@@ -1,0 +1,3 @@
+primeiro número            segundo número              terceiro número                   quarto número               total
+       2                         3                           5                                 6                       74
+       7                         9                           5                                 2                       159
