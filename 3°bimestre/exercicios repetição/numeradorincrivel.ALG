@@ -1,31 +1,31 @@
 Algoritmo "numeradorincrivelinator"
-// Disciplina   : [Linguagem e Lógica de Programação]
+// Disciplina   : [Linguagem e LÃ³gica de ProgramaÃ§Ã£o]
 // Professor   : Anderson Vanin
-// Descrição   : Aqui você descreve o que o programa faz! (função)
+// DescriÃ§Ã£o   : Aqui vocÃª descreve o que o programa faz! (funÃ§Ã£o)
 // Autor(a)    : Davi dos Santos Silva
 // Data atual  : 13/09/2022
 Var
-// Seção de Declarações das variáveis 
+// SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis 
 numeromenor:inteiro
 numeromaior:inteiro
 numero:inteiro
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc... 
-numeromenor<-100000
+// SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc... 
+numeromenor<-100000000
 numeromaior<-1
 numero<-1
 enquanto numeromenor <> 0 faca
 enquanto numeromaior <> 0 faca
 enquanto numero <> 0 faca
-escreval("Digite um número :")
+escreval("Digite um nÃºmero :")
 leia(numero)
 se numero < numeromenor entao
 numeromenor <-numero
-escreval("O menor valor agora é :",numeromenor)
+escreval("O menor valor agora Ã© :",numeromenor)
 fimse
 se numero > numeromaior entao
 numeromaior <- numero
-escreval("O maior valor agora é :",numeromaior)
+escreval("O maior valor agora Ã© :",numeromaior)
 fimse
 fimenquanto
 fimenquanto
