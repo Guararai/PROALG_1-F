@@ -1,27 +1,27 @@
 Algoritmo "somadorinator"
-// Disciplina   : [Linguagem e Lógica de Programação]
+// Disciplina   : [Linguagem e LÃ³gica de ProgramaÃ§Ã£o]
 // Professor   : Anderson Vanin
-// Descrição   : Aqui você descreve o que o programa faz! (função)
+// DescriÃ§Ã£o   : Aqui vocÃª descreve o que o programa faz! (funÃ§Ã£o)
 // Autor(a)    : Davi dos Santos Silva
-// Data atual  : 08/11/2022
+// Data atual  : 09/11/2022
 Var
-// Seção de Declarações das variáveis
+// SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis
 
 numero,numerodois,numerotres: vetor[1..5,1..2] de inteiro
 contador,contadordois:inteiro
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc...
+// SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc...
 
 para contador de 1 ate 5 faca
      para contadordois de 1 ate 2 faca
-     escreval("Digite os valores da 1º tabela :",contador,",",contadordois)
+     escreval("Digite os valores da 1Âº tabela :",contador,",",contadordois)
      leia(numero[contador,contadordois])
      fimpara
 fimpara
 para contador de 1 ate 5 faca
      para contadordois de 1 ate 2 faca
-     escreval("Digite os valores da segunda tabela :",contador,",",contadordois)
+     escreval("Digite os valores da 2Âº tabela :",contador,",",contadordois)
      leia(numerodois[contador,contadordois])
      fimpara
 fimpara
