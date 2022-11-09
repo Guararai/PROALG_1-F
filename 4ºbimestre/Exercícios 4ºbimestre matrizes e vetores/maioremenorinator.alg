@@ -1,18 +1,18 @@
 Algoritmo "maioremenorinator"
-// Disciplina   : [Linguagem e Lógica de Programação]
+// Disciplina   : [Linguagem e LÃ³gica de ProgramaÃ§Ã£o]
 // Professor   : Anderson Vanin
-// Descrição   : Aqui você descreve o que o programa faz! (função)
+// DescriÃ§Ã£o   : Aqui vocÃª descreve o que o programa faz! (funÃ§Ã£o)
 // Autor(a)    : Davi dos Santos Silva
 // Data atual  : 08/11/2022
 Var
-// Seção de Declarações das variáveis
+// SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis
 
 numero: vetor[1..6,1..3] de inteiro
 maior,menor:inteiro
 contador,contadordois:inteiro
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc...
+// SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc...
 
 menor<-10000000
 para contador de 1 ate 6 faca
@@ -28,8 +28,8 @@ para contador de 1 ate 6 faca
      fimpara
 fimpara
 escreval("")
-escreval("O maior número é ",maior)
-escreval("o menor número é ",menor)
+escreval("O maior nÃºmero Ã© ",maior)
+escreval("O menor nÃºmero Ã© ",menor)
 
 
 Fimalgoritmo
